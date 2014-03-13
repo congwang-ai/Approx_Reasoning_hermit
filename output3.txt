@@ -1,0 +1,14 @@
+EquivalentClasses(<http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#A> ObjectAllValuesFrom(<http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#R> ObjectIntersectionOf(<http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#B> <http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#C> ObjectSomeValuesFrom(<http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#R> ObjectUnionOf(<http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#D> <http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#G>)))) )
+
+------------------------------------------
+SubClassOf(<http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#D> <Aux_436586438>)
+SubClassOf(ObjectAllValuesFrom(<http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#R> <Aux_360435144>) <http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#A>)
+SubClassOf(<Aux_360435144> <http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#B>)
+SubClassOf(<Aux_436586438> ObjectUnionOf(<http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#D> <http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#G>))
+SubClassOf(<Aux_360435144> ObjectSomeValuesFrom(<http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#R> <Aux_436586438>))
+SubClassOf(<Aux_360435144> <http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#C>)
+SubClassOf(<http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#G> <Aux_436586438>)
+SubClassOf(ObjectSomeValuesFrom(<http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#R> <Aux_436586438>) <Aux_-76150178>)
+SubClassOf(ObjectIntersectionOf(<Aux_142146386> <http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#C>) <Aux_360435144>)
+SubClassOf(ObjectIntersectionOf(<Aux_-76150178> <http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#B>) <Aux_142146386>)
+SubClassOf(<http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#A> ObjectAllValuesFrom(<http://www.semanticweb.org/joshua/ontologies/2014/0/untitled-ontology-7#R> <Aux_360435144>))
